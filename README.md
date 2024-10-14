@@ -11,7 +11,8 @@ Many websites face the challenge of identifying which design elements resonate b
 * Statistical Testing: Conducted a z-test for proportions to determine the statistical significance of the results.
 * Visualization: Visualized the data using plotly to clearly show differences in user engagement between the two themes.
   Data Collection
-## Data was gathered from real-time website traffic split between the two themes over a two-week period. Metrics collected included:
+## Data collection
+* - Data was gathered from real-time website traffic split between the two themes over a two-week period. Metrics collected included:
 
 * Session time
 * Bounce rate
